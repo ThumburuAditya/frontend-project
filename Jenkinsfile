@@ -3,5 +3,3 @@
 env.component="frontend"
 
 nginx()
-
-// testing1
